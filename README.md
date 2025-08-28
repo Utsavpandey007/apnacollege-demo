@@ -1,4 +1,6 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-author - utsav pandey
+author - utsav pandey(apna college)
+
+
